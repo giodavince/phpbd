@@ -1,4 +1,5 @@
 ⚠️ Disclaimer
+
 By using this script, you agree that:
 - You are responsible for complying with all applicable laws.
 - You will not use it on systems without proper authorization.
